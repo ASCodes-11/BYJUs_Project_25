@@ -1,2 +1,1 @@
-# BYJUs_Project_25
-Archery (4)
+# project-C24-template
